@@ -15,7 +15,7 @@ A minimal, production-faithful demo that shows secure storage of displayable PII
 
 ### Prerequisites
 
-- Node.js 18+ (latest LTS recommended)
+- Node.js LTS
 - Bun (for package management)
 
 ### Installation
